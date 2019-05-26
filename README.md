@@ -4,7 +4,7 @@ It allows users to configure an applications that are going to be deployed by th
 
 ## **Prerequisites**
 
-* [RegularAPI](https://github.com/dorefactor/RegularApi)
+* [Regular API](https://github.com/dorefactor/RegularApi)
 * [Deployer UI](https://github.com/dorefactor/rd-ui)
 * [Vault](https://github.com/dorefactor/rd-vault)
 * [Jenkins](https://github.com/dorefactor/rd-jenkins-builder)
