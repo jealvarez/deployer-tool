@@ -1,4 +1,4 @@
-# **Regular Deployer Tool**
+# **Deployer Tool**
 
 It allows users to configure an applications that are going to be deployed by the tool
 
