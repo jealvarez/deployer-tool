@@ -4,6 +4,6 @@ It allows users to configure an applications that are going to be deployed by th
 
 ## **Prerequisites**
 
-* [API](https://github.com/dorefactor/RegularApi)
+* [Deployer API](https://github.com/dorefactor/rd-api)
 * [Deployer UI](https://github.com/dorefactor/rd-ui)
 * [Deployer](https://github.com/dorefactor/rd-deployer)
